@@ -1,0 +1,12 @@
+@font-face {
+font-family: "GoT";
+src: url("GoT.ttf") format("opentype");
+}
+
+h1, h3, p {
+	font-family: GoT;
+}
+
+body {
+	margin: 0 20%;
+}
